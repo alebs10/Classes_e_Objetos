@@ -1,0 +1,8 @@
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\POO2.0\PraticandoClassesObjetos\bin\Debug\PraticandoClassesObjetos.exe.config
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\POO2.0\PraticandoClassesObjetos\bin\Debug\PraticandoClassesObjetos.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\POO2.0\PraticandoClassesObjetos\bin\Debug\PraticandoClassesObjetos.pdb
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\POO2.0\PraticandoClassesObjetos\obj\Debug\PraticandoClassesObjetos.csproj.AssemblyReference.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\POO2.0\PraticandoClassesObjetos\obj\Debug\PraticandoClassesObjetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\POO2.0\PraticandoClassesObjetos\obj\Debug\PraticandoClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\POO2.0\PraticandoClassesObjetos\obj\Debug\PraticandoClassesObjetos.exe
+C:\Users\User_pc\Documents\ALEXANDRE\Projects em C#\POO2.0\PraticandoClassesObjetos\obj\Debug\PraticandoClassesObjetos.pdb
